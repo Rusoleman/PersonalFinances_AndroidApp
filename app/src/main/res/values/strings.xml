@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="savings_label">Savings</string>
+    <string name="common_label">Common</string>
+    <string name="extras_label">Extras</string>
+    <string name="title">Personal Finances</string>
+    <string name="taxes">Taxes: %s</string>
+    <string name="savings">Savings Percent: %s</string>
+    <string name="common">Common Usage Percent: %s</string>
+    <string name="extra_expenses">Additional Percent: %s</string>
+    <string name="gross_income">Gross Income (Per Month)</string>
+    <string name="amount">Insert Amount</string>
+    <string name="left_over">Left Over Quantity: %s</string>
+    <string name="percent">Insert Percent</string>
+</resources>
